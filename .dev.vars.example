@@ -1,0 +1,5 @@
+# Copia este archivo como .dev.vars cuando configures Gmail.
+GOOGLE_CLIENT_ID="tu-client-id.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET="tu-client-secret"
+GMAIL_TOKEN_ENCRYPTION_KEY="una-frase-aleatoria-larga-y-privada"
+
